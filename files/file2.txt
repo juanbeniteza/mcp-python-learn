@@ -1,0 +1,4 @@
+This is the second file.
+It has slightly different content.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
